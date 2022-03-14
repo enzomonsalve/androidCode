@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Miappintegrador</string>
+    <string name="agregar_publicacion" translatable="false">--Publicar--</string>
+    <string name="ver_publicacion" translatable="false">--ver publicaciones--</string>
+    <string name="advertencia" translatable="false">¡¡Advertencia!!</string>
+</resources>
